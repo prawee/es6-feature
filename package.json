@@ -1,0 +1,28 @@
+{
+  "name": "es6-feature",
+  "version": "1.0.0",
+  "description": "check es6 feature",
+  "main": "let.js",
+  "scripts": {
+    "test": "node let"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prawee/es6-feature.git"
+  },
+  "keywords": [
+    "es6",
+    "feature",
+    "let",
+    "arrow",
+    "inheritance",
+    "class",
+    "generator"
+  ],
+  "author": "Prawee Wongsa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prawee/es6-feature/issues"
+  },
+  "homepage": "https://github.com/prawee/es6-feature#readme"
+}
